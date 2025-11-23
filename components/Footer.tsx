@@ -68,6 +68,7 @@ const Footer: React.FC = () => {
             <p className="font-bold text-gray-500">상호: (주)한국종합폐차장 | 대표자: 유용기</p>
             <p>사업자등록번호: 514-81-80365 | 관허번호: 제 2004-1호</p>
             <p>주소: 대구 달성군 하빈면 하산리 947-95</p>
+            <p>전화번호: 080-666-9000, 053-566-8888 | 팩스: 053-566-8889</p>
             <p>개인정보관리책임자: 유충기 | 이메일: koreascrap@example.com</p>
             <p className="mt-2 text-gray-700">© {new Date().getFullYear()} Korea General Junkyard. All rights reserved.</p>
           </div>

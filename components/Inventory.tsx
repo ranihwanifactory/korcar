@@ -9,7 +9,8 @@ const serviceData = [
     desc: '압류나 저당이 없는 일반적인 차량을 폐차하는 방식입니다. 대구/경북 전지역 무료 견인 후 즉시 말소해 드립니다.',
     icon: <Truck className="w-8 h-8 text-blue-400" />,
     tags: ['당일 말소', '무료 견인', '즉시 입금'],
-    imageUrl: 'https://images.unsplash.com/photo-1597762636502-0e976c6c8059?q=80&w=800&auto=format&fit=crop'
+    // Updated image: Reliable mechanic/tow context
+    imageUrl: 'https://images.unsplash.com/photo-1605247177454-a837a87f1593?q=80&w=923&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     id: '2',
@@ -18,7 +19,8 @@ const serviceData = [
     desc: '배출가스 4,5등급 노후 경유차를 대상으로 정부 보조금을 지원받습니다. 서류 접수부터 성능검사까지 대행해 드립니다.',
     icon: <Coins className="w-8 h-8 text-green-400" />,
     tags: ['정부 보조금', '성능 검사 대행', '추가 지원금'],
-    imageUrl: 'https://images.unsplash.com/photo-1532935293444-6b2c62c2cb99?q=80&w=800&auto=format&fit=crop'
+    // Updated image: Car on road, representing older vehicles/subsidy
+    imageUrl: 'https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=800&auto=format&fit=crop'
   },
   {
     id: '3',
@@ -27,7 +29,8 @@ const serviceData = [
     desc: '압류나 저당이 있어도 차량 연식이 오래되었다면 합법적으로 폐차가 가능합니다. (승용 11년, 승합 10년 이상 등)',
     icon: <AlertTriangle className="w-8 h-8 text-orange-400" />,
     tags: ['압류 폐차', '합법적 절차', '45-60일 소요'],
-    imageUrl: 'https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?q=80&w=800&auto=format&fit=crop'
+    // Updated image: Vintage/Old texture
+    imageUrl: 'https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?q=80&w=800&auto=format&fit=crop'
   },
   {
     id: '4',
@@ -36,7 +39,8 @@ const serviceData = [
     desc: '엔진 상태가 양호한 차량은 해외 바이어 직거래를 통해 일반 폐차비보다 더 높은 금액을 받으실 수 있습니다.',
     icon: <Globe2 className="w-8 h-8 text-purple-400" />,
     tags: ['고가 매입', '바이어 직거래', '인기 차종'],
-    imageUrl: 'https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=800&auto=format&fit=crop'
+    // Updated image: Shipping/Port
+    imageUrl: 'https://plus.unsplash.com/premium_photo-1661934344726-6bc1a604575b?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   }
 ];
 
